@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- Updated theme inheriting from AppCompat -->
+    <style name="Theme.RandomStringGenerator" parent="Theme.AppCompat.Light.DarkActionBar">
+        <item name="colorPrimary">@color/purple_700</item>
+        <item name="colorPrimaryDark">@color/blue_dark</item>
+    </style>
+
+</resources>
