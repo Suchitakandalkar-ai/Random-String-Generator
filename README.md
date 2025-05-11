@@ -59,7 +59,4 @@ All fetched strings are stored locally (in a Room database) to preserve history 
  - Recyclerview
 
 
-
-
-![Random String Generator](https://github.com/user-attachments/assets/b180b22c-ab0d-41ce-bcb3-94e00b678e3d)
-
+![Random String Generator](https://github.com/user-attachments/assets/ef3c68a4-66de-47cb-9dd8-4e4330d9771c)
